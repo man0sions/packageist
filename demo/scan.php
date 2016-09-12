@@ -14,5 +14,6 @@ $urls = [
     'http://sdfssdwerw.org'
 ];
 
+
 $scan = new \Luciferp\Url\ScanUrl($urls);
 var_dump($scan->getInvalidUrl());
