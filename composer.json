@@ -32,6 +32,11 @@
         "psr-4": {
             "Luciferp\\": "src/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "master": "1.0.0"
+        }
     }
 
 }
