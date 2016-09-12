@@ -32,9 +32,6 @@
         "psr-4": {
             "Luciferp\\": "src/"
         }
-    },
-    "extra": {
-
     }
 
 }
